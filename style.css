@@ -1,0 +1,34 @@
+.welcome{
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+    
+}
+
+.c_resume{
+    text-align: center;
+}
+
+body{
+
+    background: linear-gradient(to bottom, lightblue , white);
+}
+
+.about{
+    margin-top: 2cm;
+    text-align: center;
+}
+
+
+
+.work{
+    text-align: center;
+    margin-top: 2cm;
+}
+.resume{
+    margin-top: 2cm;
+    text-align: center;
+}
+
+
+
